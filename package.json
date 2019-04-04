@@ -1,0 +1,22 @@
+{
+  "name": "jquery.chainAjax.js",
+  "version": "0.0.1",
+  "description": "对jquery ajax api的封装",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenyaHoshino/jquery.chainAjax.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GenyaHoshino/jquery.chainAjax.js/issues"
+  },
+  "homepage": "https://github.com/GenyaHoshino/jquery.chainAjax.js#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
