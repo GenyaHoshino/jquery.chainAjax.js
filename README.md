@@ -1,2 +1,6 @@
-# jquery.chainAjax.js
-对jquery ajax api的封装
+---
+description: jQuery.ChainAjax JS接口封装对象使用指南
+---
+
+# jQuery.ChainAjax 指南
+
