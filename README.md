@@ -1,6 +1,6 @@
 ---
-description: jQuery.ChainAjax JS接口封装对象使用指南
+description: 一个 jQuery Ajax API封装
 ---
 
-# jQuery.ChainAjax 指南
+# jQuery.ChainAjax
 
